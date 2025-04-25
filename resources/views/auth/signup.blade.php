@@ -44,7 +44,7 @@
                         </div>
                         <div class="login-text-dont-have-account">
                             Already have an account? -
-                            <a href="/login.html"> Click here to login </a>
+                            <a href="{{ route('login') }}"> Click here to login </a>
                         </div>
                     </form>
                 </div>

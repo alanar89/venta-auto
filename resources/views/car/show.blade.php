@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-app-layout title="show car">
     <main>
         <div class="container">
             <h1 class="car-details-page-title">Lexus NX200t - 2016</h1>

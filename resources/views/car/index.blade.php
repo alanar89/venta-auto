@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-app-layout title="my cars">
     <main>
         <div>
             <div class="container">

@@ -1,6 +1,6 @@
+@props(['bodyClass' => '', 'title' => ''])
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-@props(['bodyClass' => '', 'title' => ''])
 
 <head>
     <meta charset="UTF-8">
